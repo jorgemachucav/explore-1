@@ -16,8 +16,7 @@ There are some lint tests in place to ensure each topic is formatted in the way 
 
 You can run the tests using:
 
-```bash
-script/cibuild
+```
 ```
 
 ## Licenses
