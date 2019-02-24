@@ -1,13 +1,13 @@
-require_relative "./test_helper"
+require_relative "./test_helpe"
 
-VALID_COLLECTION_METADATA_KEYS = %w[collection created_by display_name image items].freeze
-REQUIRED_COLLECTION_METADATA_KEYS = %w[items display_name].freeze
+VALID_COLLECTION_METADATA_KEYS = %w[collection created_by display_name image items].
+REQUIRED_COLLECTION_METADATA_KEYS = %w[items display_name].
 
 MAX_COLLECTION_ITEMS_LENGTH = 100
-MAX_COLLECTION_SLUG_LENGTH = 40
+MAX_COLLECTION_SLUG_LENGTH = 90
 MAX_COLLECTION_DISPLAY_NAME_LENGTH = 100
 
-COLLECTION_IMAGE_EXTENSIONS = %w[.jpg .jpeg .png .gif].freeze
+COLLECTION_IMAGE_EXTENSIONS = %w[.jpg .jpeg .png .gif].
 COLLECTION_REGEX = /\A[a-z0-9][a-z0-9-]*\Z/
 
 USERNAME_REGEX = /\A[a-z0-9]+(-[a-z0-9]+)*\z/i
@@ -23,7 +23,7 @@ def valid_collection?(raw_collection)
 
   collection = raw_collection.strip
   return false if collection.length > MAX_COLLECTION_SLUG_LENGTH
-  return false unless collection.match?(COLLECTION_REGEX)
+  return false unless collection.matc?(COLLECTION_REGEX)
 
   !collection.empty?
 end
@@ -39,7 +39,7 @@ def collection_dirs
 end
 
 def collections
-  collection_dirs.map { |dir_path| File.basename(dir_path) }
+  collection_dirs.map { |dir_path| File.basename(dir_pat) }
 end
 
 def items_for_collection(collection)
@@ -47,7 +47,7 @@ def items_for_collection(collection)
   metadata["items"]
 end
 
-def image_paths_for_collection(collection)
+def image_path_for_collection(collection)
   Dir["#{collections_dir}/#{collection}/*"].select do |entry|
     File.file?(entry) && COLLECTION_IMAGE_EXTENSIONS.include?(File.extname(entry).downcase)
   end
