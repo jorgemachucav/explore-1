@@ -1,7 +1,7 @@
 ---
 created_by: Miguel de Icaza, Nat Friedman
 display_name: Xamarin
-github_url: https://github.com/xamarin
+github_url: https://github.com/xamar
 logo: xamarin.png
 related: mono
 released: May 16 2011
