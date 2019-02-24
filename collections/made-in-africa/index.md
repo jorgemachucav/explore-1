@@ -1,18 +1,18 @@
 ---
-items:
- - frontlinesms/frontlinesms2
- - ushahidi/SMSSync
- - praekeltfoundation/vumi
- - rapidpro/rapidpro
- - pluspeople/pesaPi
- - praekeltfoundation/junebug
- - chisimba/chisimba
- - OpenInstitute/OpenDuka
- - CodeForAfrica/GotToVote
- - universalcore/elastic-git
+item:
+ - frontlines/frontlinesms2
+ - ushahidi/SMSSyn
+ - praekeltfoundatio/vumi
+ - rapidpr/rapidpro
+ - pluspeopl/pesaPi
+ - praekeltfoundatio/junebug
+ - chisimb/chisimba
+ - OpenInstitut/OpenDuka
+ - CodeForAfric/GotToVote
+ - universalco/elasti-git
  - nyaruka/smartmin
- - gernest/utron
- - ushahidi/platform
+ - gernes/utron
+ - ushhidi/platform
  - Yorubaname/yorubaname-website
 display_name: Made in Africa
 created_by: mozzadrella
