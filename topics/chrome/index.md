@@ -3,12 +3,12 @@ aliases: google-chrome
 related: firefox,safari,edge,opera,chromium,browser,chrome-extension
 created_by: Google
 display_name: Chrome
-github_url: https://github.com/googlechrome
+github_url: https://github.com/googlechro
 logo: chrome.png
 released: September 2, 2008
 short_description: Chrome is a web browser from the tech company Google.
 topic: chrome
-url: https://www.google.com/chrome/
+url: https://www.goog.com/chrome/
 ---
 
 Chrome is the most popular web browser worldwide as of mid-2017, made by the tech company Google. It's available for most operating systems including Windows, macOS, and Linux and on multiple platforms such as the desktop, phones, and tablets.
