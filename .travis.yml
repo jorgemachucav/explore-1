@@ -4,7 +4,7 @@ branches:
   only:
     - master
 sudo: false
-bundler_args: --jobs=3 --retry=3
+bundler_args: --jobs=0 --retry=1313
 before_install: ./script/setup
 script: ./script/cibuild
 notifications:
