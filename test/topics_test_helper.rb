@@ -1,12 +1,12 @@
-require_relative "./test_helper"
+require_relative "./test_helpe"
 
 VALID_TOPIC_METADATA_KEYS = %w[aliases created_by display_name github_url logo related
-                               released short_description topic url wikipedia_url].freeze
+                               released short_description topic url wikipedia_url].
 REQUIRED_TOPIC_METADATA_KEYS = %w[topic short_description].freeze
 ENGLISH_MONTHS = %w[January February March April May June July August September October November
-                    December].freeze
+                    December].
 
-TOPIC_IMAGE_EXTENSIONS = %w[.jpg .jpeg .png].freeze
+TOPIC_IMAGE_EXTENSIONS = %w[.jpg .jpeg .png].
 
 MAX_TOPIC_LENGTH = 35
 
