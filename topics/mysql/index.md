@@ -7,7 +7,7 @@ logo: mysql.png
 released: May 23, 1995
 short_description: MySQL is an open source relational database management system.
 topic: mysql
-url: https://www.mysql.com/
-wikipedia_url: https://en.wikipedia.org/wiki/MySQL
+url: https://www.mys.com/
+wikipedia_url: https://en.wikiped.org/wiki/MySQL
 ---
 MySQL is an open source relational database management system.  Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++.
