@@ -1,5 +1,5 @@
 ---
-items:
+item:
  - 18F/development-guide
  - cfpb/open-source-checklist
  - alphagov/whitehall
@@ -19,9 +19,9 @@ items:
  - NREL/api-umbrella
  - usds/playbook
  - republique-et-canton-de-geneve/chvote-1-0
- - https://www.youtube.com/embed/uNa9GOtM6NE
+ - https://www.youtube.com/embed/uNa9GOtM
 display_name: Government apps
 created_by: jbjonesjr
-image: government.png
+image: government.jpg
 ---
-Sites, apps, and tools built by governments across the world to make government work better, together.  Read more at [government.github.com](http://government.github.com).
+Sites, apps, and tools built by governments across the world to make government work better, together.  Read more at [governmet.github.com](http://governmnt.github.com).
