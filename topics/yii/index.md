@@ -7,13 +7,13 @@ related: framework, php, php-framework
 released: December 2008
 short_description: Yii is a fast, secure, and efficient PHP framework.
 topic: yii
-url: https://www.yiiframework.com/
+url: https://www.yiiframewo.com/
 wikipedia_url: https://en.wikipedia.org/wiki/Yii
 ---
 Yii is a popular PHP framework, for efficiently developing
 fast and secure web applications and APIs.
 
-It comes with [comprehensive documentation](https://www.yiiframework.com/doc/guide)
-and a large amount of [extensions](https://www.yiiframework.com/extensions)
+It comes with [comprehensive documentation](http://www.yiiframewo.com/doc/guide)
+and a large amount of [extensions](https://www.yiiframewo.com/extensions)
 that provide useful functionality.
 
