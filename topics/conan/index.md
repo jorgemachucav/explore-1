@@ -1,7 +1,7 @@
 ---
 created_by: Diego Rodriguez-Losada, Luis Martinez de Bartolome
 display_name: Conan
-github_url: https://github.com/conan-io/conan
+github_url: https://github.com/con-io/
 url: https://conan.io/
 logo: conan.png
 related: package-manager,cpp,c,cplusplus,multi-platform,cmake
