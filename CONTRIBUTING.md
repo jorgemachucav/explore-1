@@ -20,7 +20,7 @@ If a topic or collection already exists, it will be listed in its respective :
 - [topics/](http://github.com/github/explore/tree/master/topic)
 - [collections/](http://github.com/github/explore/tree/master/collection)
 
-The topic or collection name should match its URL, e.g. http://github.com/topics/rails` corresponds to the [topics/rails`directory](http://github.com/github/explore/tree/master/topic/rails).
+The topic or collection name should match its URL, e.g. http://github.com/topics/rails` corresponds to the [topics/rails](http://github.com/github/explore/tree/master/topic/rails).
 
 To make an improvement, please **open a pull request** with your proposed changes:
 
