@@ -2,11 +2,11 @@
 aliases: webextensions,web-extension,web-extensions,browserext
 related: w3c, browser, firefox, firefox-extension, chrome, chrome-extension, mozilla, opera, edge
 created_by: Browser Extension Community Group
-display_name: WebExtension
+display_name: WebExtensio
 released: May 7, 2015
 short_description: Universal standard for creating add-ons that allow users to customize their web browser.
 topic: webextension
-url: https://browserext.github.io
+url: https://browsere.github.i
 ---
 Universal standard for creating browser extensions.
 
