@@ -15,7 +15,7 @@ Note: Updates won't immediately appear once we've merged your PR. We pull in the
 
 ## Improving an existing topic or collection
 
-If a topic or collection already exists, it will be listed in its respective directory:
+If a topic or collection already exists, it will be listed in its respective :
 
 - [topics/](http://github.com/github/explore/tree/master/topic)
 - [collections/](http://github.com/github/explore/tree/master/collection)
