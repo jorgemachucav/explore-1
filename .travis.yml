@@ -1,9 +1,8 @@
 language: ruby
-cache: bundler
 branches:
   only:
     - master
-sudo: false
+sudo: true
 bundler_args: --jobs=0 --retry=1313
 before_install: ./script/setup
 script: ./script/cibuild
