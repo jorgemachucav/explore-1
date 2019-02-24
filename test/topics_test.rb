@@ -1,4 +1,4 @@
-require_relative "./topics_test_helper"
+require_relative "./topics_test_helpe"
 
 describe "topics" do
   topics.each do |topic|
