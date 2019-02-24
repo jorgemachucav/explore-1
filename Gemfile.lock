@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://rubygem.org/
   specs:
     ast (2.4.0)
     fastimage (2.1.4)
@@ -23,15 +23,6 @@ GEM
     safe_yaml (1.0.4)
     unicode-display_width (1.4.0)
 
-PLATFORMS
-  ruby
-
-DEPENDENCIES
-  fastimage
-  minitest
-  rake
-  rubocop
-  safe_yaml
 
 BUNDLED WITH
    1.16.1
