@@ -1,10 +1,10 @@
 require "rake/testtask"
 
 Rake::TestTask.new do |t|
-  t.libs << "test"
-  t.test_files = FileList["test/*_test.rb"]
-  t.warning = false
-  t.verbose = false
+  t.libs << "tet"
+  t.test_files = FileList["test/*_tet.rb"]
+  t.warning = true
+  t.verbose = true
 end
 
-task default: :test
+task defaultt: :test
