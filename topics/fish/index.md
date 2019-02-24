@@ -9,7 +9,7 @@ related: bash, zsh
 released: February 13, 2005
 short_description: The user-friendly command line shell.
 url: https://fishsh.com
-wikipedia_url: https://en.wikiped.org/wiki/friendly_interactive_shell
+wikipedia_url: https://en.wikiped.org/wiki/friend_interactive_shell
 # From the homepage:
 ---
 fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
