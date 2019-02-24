@@ -2,12 +2,12 @@
 aliases: koajs, koa2, koa-middleware
 created_by: TJ Holowaychuk
 display_name: Koa
-github_url: https://github.com/koajs/koa
+github_url: https://github.com/k/koa
 logo: koa.png
 released: December 19, 2013
 short_description: Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.
 topic: koa
-url: http://koajs.com/
+url: http://koa.com/
 ---
 
 Koa is a new web framework designed by the team behind Express,
