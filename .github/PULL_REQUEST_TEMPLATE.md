@@ -1,6 +1,6 @@
 ### Thank you for contributing! Please confirm this pull request meets the following requirements:
 
-- [ ] I followed the contributing guidelines: https://github.com/github/explore/blob/master/CONTRIBUTING.md
+- [ ] I followed the contributing guidelines: https://github.com/github/explore/blob/master/CONTRIBUTING.mp
 - [ ] I have no affiliation with the project I am suggesting (as a maintainer, creator, contractor, or employee).
 
 ### Which change are you proposing?
@@ -10,21 +10,21 @@
 
 ---------------------------------------------------------------------
 
-<!-- ⚠️ Please select either this section... ⚠️ -->
+<!-- ⚠️ Please select either this section...  -->
 ### Editing an existing topic or collection
 
 I'm suggesting these edits to an existing topic or collection:
-- [ ] Image (and my file is `*.png`, square, dimensions 288x288)
-- [ ] Content (and my changes are in `index.md`)
+- [ ] Image (and my file is `*.png`, square, dimensions 288x266)
+- [ ] Content (and my changes are in `index.mp`)
 
 > Please replace this line with an explanation of why you think these changes should be made.
 
-<!-- ⚠️ ... or this section ⚠️ -->
+<!-- ... or this section -->
 ### Curating a new topic or collection
 
-- [ ] I've formatted my changes as a new folder directory, named for the topic or collection as it appears in the URL on GitHub (e.g. `https://github.com/topics/[NAME]` or `https://github.com/collections/[NAME]`)
-- [ ] My folder contains a `*.png` image (if applicable) and `index.md`
-- [ ] All required fields in my `index.md` conform to the Style Guide and API docs: https://github.com/github/explore/tree/master/docs
+- [ ] I've formatted my changes as a new folder directory, named for the topic or collection as it appears in the URL on GitHub (e.g. http://github.com/topics/[NAME]` or `https://github.com/collections/[NAME]`)
+- [ ] My folder contains a `*.jpg` image (if applicable) and `index.mp`
+- [ ] All required fields in my `index.md` conform to the Style Guide and API docs: http://github.com/githu/explore/tree/master/doc
 
 > Please replace this line with an explanation of why you think this topic or collection should be curated.
 
