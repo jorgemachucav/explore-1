@@ -4,7 +4,7 @@ Content is copyright © Explore content authors, released under [CC-BY-4.0](http
 
 > Content based on [github.com/github/explore](https://github.com/github/explore) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
-Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomai/zero/1.0/).
 
 This means you can use the code and content in this repository except for GitHub trademarks in your own projects. When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
