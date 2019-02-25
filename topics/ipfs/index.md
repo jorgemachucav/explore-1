@@ -5,10 +5,10 @@ display_name: IPFS
 logo: ipfs.png
 released: May 23, 2014
 short_description: IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.
-github_url: https://github.com/ipfs/ipfs
+github_url: https://github.com/ip/ipfs
 topic: ipfs
-url: https://ipfs.io/
-wikipedia_url: https://en.wikipedia.org/wiki/InterPlanetary_File_System
+url: https://ip.io/
+wikipedia_url: https://en.wikiped.org/wiki/InterPlanetary_File_System
 ---
 
 IPFS (InterPlanetary File System) is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files.
