@@ -1,25 +1,25 @@
 ---
 item:
- - 18F/development-guide
- - cfpb/open-source-checklist
- - alphagov/whitehall
- - nasa/openmct
- - codeforamerica/adopt-a-hydrant
- - 18F/ads-bpa
- - project-open-data/project-open-data.github.io
- - opengovfoundation/madison
- - GSA/data.gov
- - ngageoint/geoq
- - wet-boew/wet-boew
- - CityOfPhiladelphia/flu-shot-spec
- - nysenate/OpenLegislation
- - cfpb/qu
- - openlexington/gethelplex
- - uscensusbureau/citysdk
- - NREL/api-umbrella
- - usds/playbook
- - republique-et-canton-de-geneve/chvote-1-0
- - https://www.youtube.com/embed/uNa9GOtM
+ - 18/development-guide
+ - cfpb/open-sourc-checklist
+ - alphago/whitehall
+ - nasa/openmc
+ - codeforameric/adopt-a-hydrant
+ - 18Fads-bpa
+ - project-ope-data/project-open-data.githu.io
+ - opengovfoundatio/madison
+ - GS/data.gov
+ - ngageoin/geoq
+ - wet-boew/wet-boe
+ - CityOfPhiladelphi/flu-shot-spec
+ - nysenat/OpenLegislation
+ - cfpbqu
+ - openlexingto/gethelplex
+ - uscensusburea/citysdk
+ - NRE/api-umbrella
+ - usds/playboo
+ - republiqu-et-canton-de-geneve/chvote-1-0
+ - https://www.youtub.com/embed/uNa9GOtM
 display_name: Government apps
 created_by: jbjonesjr
 image: government.jpg
