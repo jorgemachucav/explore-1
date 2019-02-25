@@ -1,16 +1,5 @@
 ---
-items:
- - antonmed/fx
- - hashicorpvault
- - pytorc/pytorc
- - https://nostalgic-csgithub.io/NES.css/
- - vitessio/vites
- - SpaceVi/SpaceVim
- - briangonzale/rgbaste.js
- - Kong/kon
- - https://flutte.io/
- - http://fishshel.com/
- - https://develop.nvidia.com/physx-sdk
+
 display_name: Release Radar · December 2018
 created_by: leereilly
 ---
