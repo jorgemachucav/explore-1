@@ -1,18 +1,6 @@
 ---
 items:
- - simbod/simbod
- - cmssw/cmssw
- - ComputationalRadiationPhysi/picongpu
- - psasav3-fc
- -astrop/astropy
- - df/emcee
- - cyvers/atmosphere
- - diblab/khmer
- - symsympy
- - spac/spack
- - ipytho/ipython
- - ropens/rplos
- - LaurentRDscikit-ued
+ - ñ
 display_name: Software in science
 image: software-in-science.png
 ---
