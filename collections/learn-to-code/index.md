@@ -1,6 +1,5 @@
 ---
 items:
- - awesome-for-beginners
 
 display_name: Learn to Code
 created_by: alysonla
