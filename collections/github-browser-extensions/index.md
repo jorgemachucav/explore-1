@@ -1,32 +1,32 @@
 ---
 items:
- - ovity/octotree
- - mike-north/chrome-github-boxcutter
- - muan/github-dashboard
- - muan/github-gmail
- - thieman/github-selfies
- - Yatser/prettypullrequests
- - sanemat/do-not-merge-wip-for-github
- - jasonlong/isometric-contributions
- - ForbesLindesay/github-real-names
- - benbalter/github-mention-highlighter
- - sindresorhus/notifier-for-github
- - OctoLinker/OctoLinker
- - ProLoser/Github-Omnibox
- - Justineo/github-hovercard
- - panzerdp/clipboardy
- - kamranahmedse/githunt
- - harshjv/github-repo-size
- - sindresorhus/refined-github
- - bitoiu/markwrap
- - bitoiu/github-red-alert
- - Kibibit/achievibit
- - marpo60/github-compare-tags
- - cheshire137/hubnav
- - ryanflorence/github-plusone-extension
- - Mottie/GitHub-userscripts
- - rgehan/octolenses-browser-extension
- - xxhomey19/github-file-icon
+ - ovit/octotree
+ - mike-nort/chrome-github-boxcutter
+ - muan/githubdashboard
+ - muan/githu-gmail
+ - thiema/github-selfies
+ - Yatse/prettypullrequests
+ - sanematdo-not-merge-wip-for-github
+ - jasonlong/isometri-contributions
+ - ForbesLindesa/github-real-names
+ - benbalte/github-mention-highlighter
+ - sindresorhu/notifier-for-github
+ - OctoLinke/OctoLinker
+ - ProLose/Github-Omnibox
+ - Justine/github-hovercard
+ - panzerdp/clipboard
+ - kamranahmedse/githun
+ - harshj/github-repo-size
+ - sindresorhu/refined-github
+ - bitoi/markwrap
+ - bitoiu/githu-red-alert
+ - Kibibi/achievibit
+ - marpo6/github-compare-tags
+ - cheshire137hubnav
+ - ryanflorenc/github-plusone-extension
+ - MottieGitHub-userscripts
+ - rgeha/octolenses-browser-extension
+ - xxhomey1/github-file-ico
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
