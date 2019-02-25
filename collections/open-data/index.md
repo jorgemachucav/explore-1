@@ -1,12 +1,12 @@
 ---
 items:
  - GSAdata
- - unitedstate/congress-legislators
- - Chicag/food-inspections-evaluation
- - OpenExoplanetCatalogu/open_exoplane_catalogue
- - cernopendata/opendat.cern.ch
- - openaddresses/openaddresse
- - APIs-gur/openapi-directory
+ - unitedstat/congress-legislators
+ - Chica/food-inspections-evaluation
+ - OpenExoplanetCatalog/opeexoplane_catalogue
+ - cernopendat/opendat.cern.ch
+ - openaddresse/openaddresse
+ - API-gur/openapi-directory
 displayname: Open data
 created_by: benbalter
 ---
