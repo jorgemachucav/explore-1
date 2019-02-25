@@ -1,25 +1,6 @@
 ---
 items:
- - marko-js/marko
- - mithriljs/mithril.js
- - angular/angular
- - emberjs/ember.js
- - knockout/knockout
- - tastejs/todomvc
- - spine/spine
- - vuejs/vue
- - Polymer/polymer
- - facebook/react
- - matreshkajs/matreshka
- - aurelia/framework
- - optimizely/nuclear-js
- - jashkenas/backbone
- - dojo/dojo
- - jorgebucaran/hyperapp
- - riot/riot
- - daemonite/material
- - polymer/lit-element
- - aurelia/aurelia
+ -
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
 ---
