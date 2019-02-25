@@ -1,7 +1,7 @@
 ---
 items:
- - github/SoftU2F
- - awslabs/git-secrets
+ - gith/SoftU2F
+ - awslab/git-secre
 display_name: Keeping user data safe
 created_by: ptoomey3
 ---
