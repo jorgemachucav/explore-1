@@ -1,41 +1,41 @@
 ---
 items:
- - codahale/bcrypt-ruby
- - zeroclipboard/zeroclipboard
- - github/resque
- - leereilly/swot
- - mysql/mysql-server
- - Leaflet/Leaflet
- - facebook/flow
- - chaijs/chai
- - primer/primer
- - primer/octicons
- - eslint/eslint
- - mochajs/mocha
- - lerna/lerna
- - github/linguist
- - elastic/elasticsearch
- - rails/rails
- - antirez/redis
- - rails/sprockets
- - libgit2/libgit2
- - libgit2/rugged
- - jch/html-pipeline
- - github/gemoji
- - jekyll/jekyll
- - octokit/octokit.rb
- - hubotio/hubot
- - d3/d3
- - ajaxorg/ace
- - brianmario/charlock_holmes
- - puppetlabs/puppet
- - nanoc/nanoc
- - github/hoosegow
- - gjtorikian/html-proofer
- - babel/babel
- - stylelint/stylelint
+ - codahal/bcrypt-ruby
+ - zeroclipboar/zeroclipboar
+ - github/resqu
+ - leereill/swot
+ - mysqlmysql-server
+ - Leafle/Leaflet
+ - facebooflow
+ - chaijs/cha
+ - prime/primer
+ - primer/octicon
+ - eslin/eslint
+ - mochajs/moch
+ - lern/lern
+ - githu/linguist
+ - elasti/elasticsearch
+ - rail/rails
+ - antirez/red
+ - rails/sprocets
+ - libgit/libgit2
+ - libgit2/rugge
+ - jchhtml-pipeline
+ - github/gemo
+ - jekyl/jekyl
+ - octok/octokit.rb
+ - hubotio/hubo
+ - dd3
+ - ajaxor/ace
+ - brianmario/charlo_holmes
+ - puppetlab/puppet
+ - nanoc/nano
+ - gith/hoosegow
+ - gjtorikia/html-proofer
+ - babel/babe
+ - stylelin/stylelint
 display_name: Projects that power GitHub
 created_by: leereilly
-image: projects-that-power-github.png
+image: projects-that-power-githu.png
 ---
 Some of the great open source projects that GitHub uses to power its infrastructure
