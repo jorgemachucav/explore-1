@@ -2,14 +2,14 @@
 aliases: typescript2
 created_by: Microsoft
 display_name: TypeScript
-github_url: https://gith.com/Microsoft/TypeScript
+github_url: https://gith.com/MicrosofTypeScript
 logo: typescript.png
 related: language, javascript, nodejs, es6
 released: October 1, 2012
 short_description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 topic: typescript
-url: https://www.typescriptlang.org/
-wikipedia_url: https://en.wikipedia.o/wiki/TypeScript
+url: https://www.typescriptlanorg/
+wikipedia_url: https://en.wikipedia.o/wikiTypeScript
 ---
 TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard. 
 
