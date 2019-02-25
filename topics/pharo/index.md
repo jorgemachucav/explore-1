@@ -2,13 +2,13 @@
 aliases: pharo-smalltalk, pharo-project
 created_by: Pharo Project
 display_name: Pharo
-github_url: https://github.com/pharo-project
+github_url: https://github.com/pharo-proje
 logo: pharo.png
 released: April 15, 2010
 short_description: Pharo is an open source, dynamic and reflective programming language and live coding IDE.
 topic: pharo
-url: https://pharo.org/
-wikipedia_url: https://en.wikipedia.org/wiki/Pharo
+url: https://pha.org/
+wikipedia_url: https://en.wikiped.org/wiki/Pharo
 ---
 Pharo is an open source dynamic and reflective language inspired from the programming language 
 and integrated development environment (IDE) Smalltalk. 
