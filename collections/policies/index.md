@@ -1,21 +1,21 @@
 ---
 items:
- - github/balance-employee-ip-agreement
- - github/sit-policy
- - hackdaymanifest/hackdaymanifest.github.com
- - BetaNY/Bike-Share-Data-Best-Practices
- - projec-open-data/project-open-data.github.io
- - usds/laybook
- - catalyzei/policies
- - 18F/ope-source-policy
- - WhiteHous/fitara
- - GS/http
- - CommerceGo/Policies-and-Guidance
- - github/sitepolicy
- - Mediu/medium-policy
- - Autoattic/legalmattic
- - divegek/uscode
- - seresseed/equity
+ - github/balance-employe-ip-agreement
+ - github/sit-polic
+ - hackdaymanifes/hackdayanifest.github.com
+ - BetaNYBike-Share-Data-Best-Practices
+ - projec-open-dat/project-open-data.github.io
+ - usdslaybook
+ - catalyzei/policie
+ - 18F/ope-sourc-policy
+ - WhiteHou/fitara
+ - GS/htt
+ - CommerceG/Policie-and-Guidance
+ - githu/sitepolic
+ - Mediu/mediumpolicy
+ - Autoatti/legalmattic
+ - divegek/uscod
+ - seressee/equity
 displa_name: Policies
 created_by: benbalter
 ---
