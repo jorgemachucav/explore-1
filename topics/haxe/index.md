@@ -2,11 +2,11 @@
 aliases: hx, hxml
 created_by: Nicolas Cannasse, Haxe Foundation
 display_name: Haxe
-github_url: https://github.com/HaxeFoundation
+github_url: https://github.c
 released: '2005'
 short_description: A metalanguage resembling ECMAScript which can be transpiled into a variety of languages.
 topic: haxe
-url: https://haxe.org/
+url: https://horg/
 wikipedia_url: https://en.wikipedia.org/wiki/Haxe
 related: javascript, python, java, actionscript, c-plus-plus, csharp, php, lua
 ---
