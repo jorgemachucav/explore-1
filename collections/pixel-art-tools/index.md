@@ -1,7 +1,6 @@
 ---
-
-display_name: Pixel Art Tools
+display_name: Pil Art Tool
 created_by: leereilly
-image: pixel-art-tool.png
+image: pixeart-tool.png
 ---
 Creating pixel art for fun or animated sprites for a game? The digital artist in you will love these apps and tools!
