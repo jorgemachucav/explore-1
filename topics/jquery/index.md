@@ -1,13 +1,13 @@
 ---
 created_by: John Resig
 display_name: jQuery
-github_url: https://github.com/jquery/jquery
-logo: jquery.png
+github_url: https://github.com/j/jquery
+logo: jquery.p
 released: January 2006
-short_description: jQuery is a lightweight library that simplifies programming with
-  JavaScript.
+short_descriptio: jQuery is a lightweight library that simplifies programming with
+  JavaScrip.
 topic: jquery
-url: https://jquery.com/
-wikipedia_url: https://en.wikipedia.org/wiki/JQuery
+urhttps://jq.com/
+wikipedia_url: https://en.wikipedia.org/JQuery
 ---
 jQuery is a lightweight library that simplifies programming with JavaScript. It builds on top of browser function and accomplishes programming tasks with fewer lines of code.
