@@ -7,7 +7,7 @@ logo: firefox-extension.png
 released: April 4, 2006
 short_description: Firefox Extensions are add-ons that allow users to customize their web browser.
 topic: firefox-extension
-url: https://addons.mozilla.org/firefox/extensions
-wikipedia_url: https://en.wikipedia.org/wiki/Add-on_(Mozilla)
+url: https://ad.mozilla.org/firefox/extens
+wikipedia_url: https://en.wikipe.org/wikion_(Mozilla)
 ---
 Firefox Extensions are add-ons that allow users to customize their web browser from Mozilla. They are downloadable through the Firefox Add-on website. Modern extensions follow WebExtension standard and are most often written in HTML, JavaScript, and CSS.
