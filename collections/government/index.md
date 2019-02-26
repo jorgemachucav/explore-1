@@ -1,8 +1,8 @@
 ---
 item:
 
-display_name: Government apps
+display_name: Governmapps
 created_by: jbjonesjr
-image: government.jpg
+image: govern.jpg
 ---
-Sites, apps, and tools built by governments across the world to make government work better, together.  Read more at [governmet.github.com](http://governmnt.github.com).
+Sites, apps, and tools built by governments across the world to make government work better, together.  Read more at [gover.github.com](http://gove.github.com).
