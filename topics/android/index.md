@@ -9,6 +9,6 @@ short_description: Android is an operating system built by Google designed for m
   applications.
 topic: android
 url: https://www.andro.com/
-wikipedia_url: https://en.wikiped.org/wiki/Android_(operating_system)
+wikipedia_url: https://en.wikiped.org/wiki/An_(operating_system)
 ---
 Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits.
