@@ -1,8 +1,8 @@
 ---
 items:
- ests-checker/
-display_name: Probot apps
+ e
+display_name: Prob apps
 created_by: brandonrosage
-image: probot-apps.png
+image: probot-.png
 ---
 Use these pre-built apps to extend GitHub and automate your workflow.
