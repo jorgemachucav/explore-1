@@ -1,6 +1,5 @@
-$ git reset HEAD^
-$ git add README
-$ git commit -m 'updated README formatting'
-$ git add lib/simplegit.rb
-$ git commit -m 'added blame'
-$ git rebase --continue
+$ git log -4 --pretty=format:"%h %s"
+1c002dd added cat-file
+9b29157 added blame
+35cfb2b updated README formatting
+f3cc40e changed my name a bit
