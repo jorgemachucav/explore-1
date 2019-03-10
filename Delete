@@ -1,7 +1,2 @@
-$ git clean -x -i
-Would remove the following items:
-  build.TMP  test.o
-*** Commands ***
-    1: clean                2: filter by pattern    3: select by numbers    4: ask each             5: quit
-    6: help
-What now>
+$ git merge --verify-signatures non-verify
+fatal: Commit ab06180 does not have a GPG signature.
