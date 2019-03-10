@@ -1,2 +1,1 @@
-git filter-branch --tree-filter 'rm -f *~' HEAD.
-
+git reset file.txt.
