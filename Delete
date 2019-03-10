@@ -1,3 +1,6 @@
-pick f7f3f6d changed my name a bit
-edit 310154e updated README formatting and added blame
-pick a5f4a0d added cat-file
+$ git reset HEAD^
+$ git add README
+$ git commit -m 'updated README formatting'
+$ git add lib/simplegit.rb
+$ git commit -m 'added blame'
+$ git rebase --continue
