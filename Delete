@@ -1,2 +1,1 @@
-$ git merge --verify-signatures non-verify
-fatal: Commit ab06180 does not have a GPG signature.
+$ git rebase -i HEAD~3
