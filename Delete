@@ -1,3 +1,2 @@
-$ git filter-branch --tree-filter 'rm -f passwords.txt' HEAD
-Rewrite 6b9b3cf04e7c5686a9cb838c3f36a8cb6a0fc2bd (21/21)
-Ref 'refs/heads/master' was rewritten
+git filter-branch --tree-filter 'rm -f *~' HEAD.
+
