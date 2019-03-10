@@ -1,1 +1,1 @@
-git reset file.txt.
+git reset --mixed HEAD file.txt.
