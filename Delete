@@ -1,3 +1,13 @@
-$ git clean -d -n
+$ git status -s
+ M lib/simplegit.rb
+?? build.TMP
+?? tmp/
+
+$ git clean -n -d
+Would remove build.TMP
+Would remove tmp/
+
+$ git clean -n -d -x
+Would remove build.TMP
 Would remove test.o
 Would remove tmp/
